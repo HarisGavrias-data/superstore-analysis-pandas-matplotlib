@@ -42,7 +42,19 @@ superstore-analysis/
 ├── images/
 └── README.md
 ```
+## 📊 Sample Visualizations
 
+### Sales by Category
+![Sales by Category](charts/sales_by_category.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](charts/monthly_sales_trend.png)
+
+### Profit vs Discount
+![Profit vs Discount](charts/profit_vs_discount.png)
+
+### Top Customers by Sales
+![Top Customers](charts/top_customers.png)
 ---
 
 ## 🚀 How to Run
